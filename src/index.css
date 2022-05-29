@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Spline+Sans+Mono&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    /* background-color: #A6ECF7; */
+    background-color: black;
+    text-shadow: 3px 6px 5px red;
+}
+
+.card{
+    width:300px;
+    height:274px;
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.card:hover{
+    transform: scale(1.1)
+}
+
+.category{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-family: 'Spline Sans Mono', monospace;
+}
+
+.name{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn{
+    padding-top: 5px;
+    margin-top: 7px;
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 5%;
+    width: 300px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.btn a{
+    color: #900C3F;
+}
+
+.btn:hover{
+    background-color: #C70039;
+    color: black;
+    border: 2px solid black;
+}
+
+.btn a:hover{
+    color: black;
+}
