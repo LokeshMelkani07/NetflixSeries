@@ -7,5 +7,5 @@ This is a web page which shows 10 Best Netflix web Series and directs the user t
 
 The video of working of this website is attached below :
 
-Uploading netflixBestSeriesReact.mp4…
+https://user-images.githubusercontent.com/93420193/170862623-efc920e5-6367-4b58-afeb-1533ded3d120.mp4
 
